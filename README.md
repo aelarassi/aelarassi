@@ -2,7 +2,7 @@
 
 ## COMING SOON!
 
-[Online-Portfolio]: https://aelarassi.com
+[Online Portfolio](https://www.aelarassi.com)
 
 
 ![aelarassi github stats](https://github-readme-stats.vercel.app/api?username=aelarassi&show_icons=true&hide_border=true)

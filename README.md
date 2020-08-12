@@ -5,12 +5,11 @@
 Online Portfolio [aelarassi.com](https://www.aelarassi.com)
 
 
-![aelarassi github stats](https://github-readme-stats.vercel.app/api?username=aelarassi&show_icons=true&hide_border=true)
+[![aelarassi github stats](https://github-readme-stats.vercel.app/api?username=aelarassi&show_icons=true&hide_border=true)](https://github.com/aelarassi)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=aelarassi&repo=DialyDroid_Security)](https://github.com/aelarassi/DialyDroid_Security)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelarassi&layout=compact)]
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aelarassi&layout=compact)](https://github.com/aelarassi)
 <!--
 **aelarassi/aelarassi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

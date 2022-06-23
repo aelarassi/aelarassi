@@ -1,6 +1,9 @@
 
-## [Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px">][portfolio]
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Medium] [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
+## [Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" height="26px"> ][portfolio]
+
+
+[![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7479377)](https://stackoverflow.com/users/7479377/aelarassi)
+
 
 ## COMING SOON!
 
@@ -12,6 +15,11 @@ What I'm doing is fun.
 
 
 Online Portfolio [aelarassi.com](https://aelarassi.com)
+
+Follow Me!
+---------------	
+
+[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter] [<img height="30" src="https://img.shields.io/badge/linkedin-blue.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][LinkedIn] [<img height="30" src="https://img.shields.io/badge/medium-black.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][Medium] [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 
 <!-- 
 [![aelarassi github stats](https://github-readme-stats.vercel.app/api?username=aelarassi&show_icons=true&hide_border=true)](https://github.com/aelarassi)

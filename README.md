@@ -1,5 +1,5 @@
 
-## [Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" height="26px"> ][portfolio]
+## Hi [Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="26px" height="26px"> ][portfolio]
 
 
 [![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7479377)](https://stackoverflow.com/users/7479377/aelarassi)
